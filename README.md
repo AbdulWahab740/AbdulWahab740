@@ -1,9 +1,10 @@
 ## 👋 Hi, I'm Abdul Wahab
 
 🎓 BSCS Student | 🧠 AI & Data Science Enthusiast  
+🏆 1st @ BZU Speed Programming | 🥈 2nd @ Air University Speed Programming 2025
+🥇 1st On-site Library App Competition Winner MNSUAM 2024
 🚀 AI Lead @ Coding Hawks | 🥇 National-Level Programming Winner  
 💡 GenAI | Machine Learning | Deep Learning | FastAPI | NLP  
-📍 Currently exploring: Emotion Recognition, ECG Anomaly Detection, AI Agents
 
 ---
 
