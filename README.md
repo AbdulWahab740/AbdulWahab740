@@ -18,7 +18,7 @@
 name: Abdul Wahab
 age: 19
 location: Multan, Pakistan
-current_role: AI Team Lead @ Coding Hawks Society @ MNUSAN
+current_role: AI Team Lead @ Coding Hawks Society @ MNSUAM
 education:
   - BSCS Student @ MNSUAM
 
