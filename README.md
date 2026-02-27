@@ -32,58 +32,6 @@ I develop **production-ready AI systems** with a focus on:
 
 ---
 
-## 💼 Featured Projects
-
-### 🌾 [Zarai Radar](https://github.com/AbdulWahab740/zarai-radar) 
-**AI-Driven Crop Risk Intelligence Platform**
-
-Built a real-time decision support system delivering climate, disease, and pest risk alerts for farmers based on location and growth stage.
-
-- **Impact:** Enables early risk detection, reduces crop loss, supports data-driven farming at regional scale
-- **Tech:** FastAPI, React, Supabase (pgvector), RAG over agricultural knowledge bases, Weather APIs
-- **Role:** Full-stack AI engineer - designed architecture, implemented RAG pipeline, deployed to production
-
-[Live Demo](#) | [Case Study](#)
-
----
-
-### 🧠 [Neuro-Critics AI](https://github.com/AbdulWahab740/Neuro-Critics-AI)
-**Medical Research RAG System**
-
-Retrieval-augmented generation system that analyzes 100+ neurology research papers with explainable responses.
-
-- **Impact:** Accelerates medical literature review, provides citation-backed answers
-- **Tech:** LangChain, FAISS, Streamlit, HuggingFace Embeddings, Gemini API
-- **Highlights:** PDF ingestion pipeline, semantic indexing, explainable chat interface
-
-[View Project](https://github.com/AbdulWahab740/Neuro-Critics-AI)
-
----
-
-### 💼 [ATS Resume Analyzer](https://github.com/AbdulWahab740/ats-resume-checker)
-**Enterprise Recruitment Intelligence**
-
-Vector-based resume screening system using semantic similarity for keyword matching and ATS scoring.
-
-- **Impact:** Automates candidate screening, reduces hiring time
-- **Tech:** Qdrant vector database, Sentence Transformers, PDF/DOC parsing
-- **Scale:** Processes multi-format resumes with real-time scoring
-
-[View Project](https://github.com/AbdulWahab740/ats-resume-checker)
-
----
-
-### 🫁 [Medical Imaging Suite](https://github.com/AbdulWahab740/Lung-Cancer-Detection)
-**Transfer Learning for Clinical Diagnosis**
-
-- **Lung Cancer Detection:** CT image classifier (94% accuracy) using ResNet50 transfer learning
-- **ECG Anomaly Detection:** LSTM-based system with explainable AI (XAI) saliency maps
-- **Wheat Rust Segmentation:** U-Net pipeline for agricultural disease detection (95%+ accuracy)
-
-[Lung Cancer](https://github.com/AbdulWahab740/Lung-Cancer-Detection) | [ECG Detector](https://github.com/AbdulWahab740/ECG-Anomaly-Detector-with-LSTM-and-XAi-Saliency)
-
----
-
 ## 🛠️ Technical Expertise
 ```yaml
 Core Capabilities:
