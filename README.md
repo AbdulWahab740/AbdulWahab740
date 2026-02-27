@@ -12,9 +12,7 @@
   <a href="mailto:abdulwahab41467@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://calendly.com/your-link">
-    <img src="https://img.shields.io/badge/Schedule_Call-00A67E?style=for-the-badge&logo=googlemeet&logoColor=white" />
-  </a>
+ 
 </p>
 
 <p align="center">
