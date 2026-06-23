@@ -97,18 +97,6 @@ Specialized Models:
 
 ---
 
-## 🔬 Research & Publications
-
-**Code-Switching Detection in Pakistani Social Media Discourse**
-- Training XLM-R classifier on Urdu-English Twitter data with class-imbalance handling
-- Focus: trigger detection in multilingual Pakistani social media contexts
-
-**Tournament-Based Recovery (TBR) for Lung Cancer CT Classification**
-- ResNet-50 based model with novel recovery strategy
-- Targeting IEEE ISBI / EMBC venues
-
----
-
 ## 📫 Let's Work Together
 
 I'm available for remote engagements in:
