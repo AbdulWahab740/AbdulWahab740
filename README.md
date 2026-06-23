@@ -41,10 +41,6 @@ I develop **production-ready AI systems** that run in real businesses — not ju
 - Developed an **autonomous WeCom supplier negotiation agent** (FastAPI + LangChain + Ollama/Claude) with Cloudflare Tunnel integration for real-time enterprise messaging
 - Deployed a **YOLOv11-based vehicle and license plate detection system** in production
 
-**AI Team Lead @ Veqtix Labs** *(Current)*
-- Leading AI product development for a restaurant platform targeting Pakistani businesses in Saudi Arabia
-- Built full-stack product (React/TypeScript, TailwindCSS v4, Supabase) with AI-powered features
-
 **Section Leader & Mentor @ Stanford Code in Place 2026**
 - Selected as a mentor for Stanford's global coding education program
 - Teaching Python fundamentals to international students
